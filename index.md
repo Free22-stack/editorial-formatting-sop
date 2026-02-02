@@ -2,6 +2,10 @@
 title: Editors Formatting SOP
 ---
 
+<img width="1600" height="580" alt="Run on History Logo" src="https://github.com/user-attachments/assets/9be364a8-1314-4415-8d6f-2d85e5891288" />
+
+
+
 # Editors Formatting SOP
 
 **Policy Owner:** Run on History  
